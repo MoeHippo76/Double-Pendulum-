@@ -20,3 +20,4 @@ In the visual we can see that regions with smaller initial angles are more predi
 The following project was entirely coded in Java. By default the main function will run the visual 10,000 double pendulums. Simply change the variable `choice` to `true` to run the map of all kinetic energies.
 
 Visuallizing chaotic systems result in increasingly interesting patterns.
+![image](https://user-images.githubusercontent.com/70505388/188736825-980c70ad-72ca-4716-8642-f908273e341d.png)
