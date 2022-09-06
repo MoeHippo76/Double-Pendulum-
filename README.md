@@ -4,11 +4,12 @@ A visual of a 10,000 double pendulums simulation. The pendulums can be run on Eu
 
 The following code also maps rotational kinetic energy of all initial angular positions for a double pendulum. This results in an intriguing visual pattern depicting the chaotic nature of the double pendulum.
 The colors of the energy goes from dark to bright with increasing energies. The colour scheme for energies is as follows-
-   Black - 0-5 units,
-   Purple - 6-10 units,
-   Dark Blue - 11-15 units,
-   Sky Blue - 16-20 units,
-   Green - 21-30 units,
+
+1.   Black - 0-5 units,
+2.   Purple - 6-10 units,
+3.   Dark Blue - 11-15 units,
+4.   Sky Blue - 16-20 units,
+5.   Green - 21-30 units,
    Yellow - 31-50 units,
    Orange - 51-70 units,
    Red - 71- 90 units,
